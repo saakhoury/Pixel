@@ -1,4 +1,7 @@
-Pixel | OpenAI, MongoDB, NextJs, Nodejs, Cloudinary, ExpressJs, Redux Toolkit and RTK Query Oct. 2022
+<h5> Pixel | OpenAI, MongoDB, NextJs, Nodejs, Cloudinary, ExpressJs, Redux Toolkit and RTK Query Oct. 2022 </h5>
+
+<h5>
+  
 
 • Spearheaded the end-to-end development of an AI image generator MERN app with responsive React.js design
 
@@ -7,3 +10,4 @@ Pixel | OpenAI, MongoDB, NextJs, Nodejs, Cloudinary, ExpressJs, Redux Toolkit an
 • Implemented the Clerk authentication and user management platform for improved application security
 
 • Integrated MongoDB indexing and tag-based filtering for efficient data retrieval
+</h5>
